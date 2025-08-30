@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @Razka0517
-- 👀 I’m interested in kernel building 
-- 🌱 I’m currently learning kernel
-
 ようこそ！！
 僕のプロファイルへ
 <!---
